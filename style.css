@@ -1,0 +1,28 @@
+body{
+	background-color: lightyellow;
+	font-family: sans-serif;
+	margin-left: 15px;
+}
+
+.recipe-title, .menu-title{
+	text-align: center;
+}
+
+li{
+	padding: 2px;
+}
+
+img{
+	width: 300px;
+	height: auto;
+}
+.back-button{
+	font-size: 26px;
+	text-decoration: none;
+	background-color:red;
+	color:black;
+	font-weight: bold;
+	margin-left: 50%;
+	padding: 8px;
+	border: 2px solid black
+}
